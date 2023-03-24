@@ -1,0 +1,25 @@
+{
+  "name": "rpl-austinnicholastham-projek",
+  "version": "1.0.0",
+  "description": "UTS RPL Austin Nicholas Tham",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinNick/RPL-AustinNicholasTham-Projek.git"
+  },
+  "author": "Austin Nicholas Tham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinNick/RPL-AustinNicholasTham-Projek/issues"
+  },
+  "homepage": "https://github.com/AustinNick/RPL-AustinNicholasTham-Projek#readme",
+  "dependencies": {
+    "chai": "^4.3.7"
+  }
+}
